@@ -58,9 +58,9 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
 
 <div align="center">  
 
-![Tobi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobifads&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobifads&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tobifads&theme=tokyonight)  
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tobifads&theme=tokyonight&margin-w=5&margin-h=5" alt="trophies" />  
 
