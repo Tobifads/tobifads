@@ -12,7 +12,7 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
 - 🎓 B.Eng Petroleum Engineering @ Covenant University  
 - 💼 Health Analyst at Mihomecare  
 - 🧑‍💻 1+ years in data science — from predictive modeling to explainable AI  
-- Hobbies: 🎶 Also into music production and songwriting as **Tobi Fads**, part of the **44db collective**  
+- Hobbies: 🎶 A member of the number one producer collective in NIgeria **Tobi Fads**, part of the **44db collective** see 44db.net
 
 ---
 
