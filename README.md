@@ -12,35 +12,20 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
 - 🎓 B.Eng Petroleum Engineering @ Covenant University  
 - 💼 Health Analyst at Mihomecare  
 - 🧑‍💻 1+ years in data science — from predictive modeling to explainable AI  
-- 🎶 Also into music production and songwriting as **Tobi Fads**, part of the **44db collective**  
+- Hobbies: 🎶 Also into music production and songwriting as **Tobi Fads**, part of the **44db collective**  
 
 ---
 
 ## ⚒️ Skills & Tools  
 
 ### 🔹 Languages & Core  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### 🔹 Data Science & ML  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00427E?style=for-the-badge&logo=plotly&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=for-the-badge&logoColor=white)  
-![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00427E?style=for-the-badge&logo=plotly&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=for-the-badge&logoColor=white) ![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge&logoColor=white)  
 
 ### 🔹 Web & Dev Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)  
-![Zod](https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
 
@@ -50,7 +35,7 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
   Interpretable ML models for ESG score prediction using **SHAP & LIME**, balancing transparency and performance.  
 
 - **[Social & Web Analytics](https://github.com/Tobifads/Social-and-web-analytics-cwii)**  
-  Explored social media sentiment and trend patterns in Python using Jupyter.  
+  Analyzed social media sentiment and trend patterns using Python and Jupyter.  
 
 - **[Data Warehousing Coursework](https://github.com/Tobifads/Warehousing-CW)**  
   Designed ETL + warehousing pipelines for analytics-ready data.  
