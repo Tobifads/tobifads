@@ -63,34 +63,9 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
 </p>
 
 
-
-
 ---
 
-## 📌 Featured Projects  
 
-- **[MSc Dissertation – Explainable ESG Score Prediction](https://github.com/Tobifads/thesis)**  
-  Interpretable ML models for ESG score prediction using **SHAP & LIME**, balancing transparency and performance.  
-
-- **[Social & Web Analytics](https://github.com/Tobifads/Social-and-web-analytics-cwii)**  
-  Analyzed social media sentiment and trend patterns using Python and Jupyter.  
-
-- **[Data Warehousing Coursework](https://github.com/Tobifads/Warehousing-CW)**  
-  Designed ETL + warehousing pipelines for analytics-ready data.  
-
-- **[React + TypeScript Starter (etst)](https://github.com/Tobifads/etst)**  
-  A frontend starter project with React, TypeScript, and Vite.  
-
-- **[Image Recognition – Dog vs. Cat](https://github.com/Tobifads/Image-recognition-Dog-or-Cat)**  
-  Built a CNN-based classifier to distinguish dog vs cat images.  
-
-- **[SoundCloud Playlist Downloader](https://github.com/Tobifads/Soundcloud-)**  
-  Colab-based notebook to download SoundCloud playlists.  
-
-- **[Breast Cancer Mortality Predictor](https://github.com/Tobifads/Breast-Cancer-predictor)**  
-  ML models predicting breast cancer outcomes (“Dead” or “Alive”) using a public dataset.  
-
----
 
 ## 📊 GitHub Stats  
 
