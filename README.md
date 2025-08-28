@@ -62,17 +62,7 @@ I’m a **Data Scientist | Engineer | Creative Technologist** who loves building
   </a>
 </p>
 
-### 🔹 Data Science & ML  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00427E?style=for-the-badge&logo=plotly&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=for-the-badge&logoColor=white) ![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge&logoColor=white)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
-[![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) 
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-00427E?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/) 
-[![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=for-the-badge&logoColor=white)](https://shap.readthedocs.io/en/latest/) 
-[![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge&logoColor=white)](https://github.com/marcotcr/lime)  
+
 
 
 ---
